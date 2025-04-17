@@ -34,7 +34,7 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
 ### **Languages**
 
 - **Ukrainian** – Native
-- **English** – Intermediate
+- **English** – Upper-Intermediate
 
 ### **Employment History**
 
