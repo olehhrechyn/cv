@@ -45,13 +45,27 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
 
   <tr>
+    <td rowspan="2"><strong>Feb 2025 — Present</strong></td>
+    <td><strong>Freelance iOS Engineer</strong> – Remote</td>
+  </tr>
+  <tr>
+    <td>
+      Working on a diverse range of projects, delivering scalable and high-quality iOS solutions.<br><br>
+      <strong>Contributions:</strong><br>
+      - Developed white-label iOS applications, architecting a unified codebase that supports multiple distinct brandings and design themes.<br>
+      - Designed and implemented robust SDKs for seamless third-party integration.<br>
+      - Collaborated on high-security projects under strict NDA, ensuring code integrity and confidentiality.<br>
+    </td>
+  </tr>
+
+  <tr>
     <td rowspan="2"><strong>Jan 2024 — Jan 2025</strong></td>
     <td><strong>Mobile Engineer at Dynata</strong> – Remote</td>
   </tr>
   <tr>
     <td>
       Following Dynata's acquisition of inBrain.ai, transitioned to their team while continuing to maintain and improve the legacy iOS application and SDK, ensuring stability and performance with a focus on Swift. Additionally, embraced new responsibilities as part of Dynata's strategic shift toward a unified cross-platform codebase.<br><br>
-      <strong>Responsibilities:</strong><br>
+      <strong>Contributions:</strong><br>
       - Maintained and enhanced the legacy iOS application and SDK.<br>
       - Developed cross-platform mobile applications using React Native.<br>
       - Gained experience with JavaScript and TypeScript, implementing animations using Reanimated and maintaining code quality with ESLint.<br>
@@ -62,12 +76,12 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
 
   <tr>
-    <td rowspan="2"><strong>Nov 2021 — Jan 2025</strong></td>
-    <td><strong>iOS Engineer at inBrain.ai</strong> – Remote</td>
+    <td rowspan="2"><strong>Nov 2021 — Jan 2024</strong></td>
+    <td><strong>iOS Engineer at inBrain.ai (acquired by Dynata)</strong> – Remote</td>
   </tr>
   <tr>
     <td>
-      <strong>Responsibilities:</strong><br>
+      <strong>Contributions:</strong><br>
       - Designed, developed, and maintained a high-traffic application with approximately 100,000 unique monthly users, achieving a consistent crash-free rate of around 99% by prioritizing stability, performance, and user experience.<br>
       - Architected and implemented an SDK to support in-app surveys, distributed via Swift Package Manager (SPM) and CocoaPods, enabling seamless integration for external developers.<br>
       - Regularly collaborated with cross-functional teams, including backend developers, designers, and product managers, to align technical solutions with business goals.<br>
@@ -84,8 +98,8 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
   <tr>
     <td>
-      <strong>Responsibilities:</strong><br>
-      - Worked on the development of outsourced applications for the Touchcard payment system.<br>
+      <strong>Contributions:</strong><br>
+      - Developed outsourced applications for the Touchcard payment system.<br>
       - Developed features such as QR code payments, credit card tokenization, utility bill payments, and public transport ticket purchases.<br>
     </td>
   </tr>
@@ -96,9 +110,9 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
   <tr>
     <td>
-      <strong>Responsibilities:</strong><br>
-      - Worked with video streams and sockets.<br>
-      - Gained an understanding of nuances when working with these tools in iOS development.<br>
+      <strong>Contributions:</strong><br>
+      - Implemented video streaming and socket-based communication.<br>
+      - Mastered the nuances of working with these tools in iOS development.<br>
       - Conducted code reviews to ensure best practices.<br>
       - Provided mentorship to junior developers and guided them through complex technical challenges.<br>
     </td>
@@ -110,7 +124,7 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
   <tr>
     <td>
-      <strong>Responsibilities:</strong><br>
+      <strong>Contributions:</strong><br>
       - Developed and maintained iOS applications using Swift.<br>
       - Integrated third-party libraries to extend functionality.<br>
     </td>
@@ -122,9 +136,9 @@ Experienced iOS Developer with over 8 years of expertise in building high-qualit
   </tr>
   <tr>
     <td>
-      <strong>Responsibilities:</strong><br>
+      <strong>Contributions:</strong><br>
       - Developed and maintained iOS applications using Swift and Objective-C.<br>
-      - Worked on multiple iOS projects simultaneously, collaborating with teams to implement new features, optimize app performance, and fix bugs.<br>
+      - Simultaneously engineered multiple iOS projects, collaborating with teams to implement new features, optimize app performance, and fix bugs.<br>
       - Integrated various APIs (RESTful, JSON), including Google Maps, Facebook, Instagram, and Amazon.<br>
       - Implemented push notifications and background tasks using iOS frameworks and libraries.<br>
       - Collaborated with cross-functional teams using project management tools such as Trello and Redmine.<br>
