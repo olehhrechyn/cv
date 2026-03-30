@@ -14,7 +14,7 @@ _Kyiv, Ukraine_
 
 ### **About**
 
-Experienced iOS Developer with over 8 years of expertise in building high-quality mobile apps.
+Experienced iOS Developer with over 9 years of expertise in building high-quality mobile apps.
 
 - **Focus:** Crafting iOS applications that prioritize user experience, performance, and long-term maintainability.
 - **Approach:** Striving for clean, sustainable architecture and ensuring scalability across projects.
